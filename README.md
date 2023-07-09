@@ -1,3 +1,8 @@
+https://www.youtube.com/watch?v=mJ3bGvy0WAY
+
+npm install expo-font axios react-native-dotenv
+
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
